@@ -1,21 +1,21 @@
 # fillter-soroush
 
 
-دستورات نصب:
+# دستورات نصب:
 
-pkg install git -y
+# pkg install git -y
 
-pkg install python -y
+# pkg install python -y
 
-pkg update -y
+# pkg update -y
 
-pkg upgrade -y
+# pkg upgrade -y
 
-git clone https://github.com/akjwi/fillter-soroush
+# git clone https://github.com/akjwi/fillter-soroush
 
-cd fillter-soroush
+# cd fillter-soroush
 
-python splus-xml.py
+# python splus-xml-fil.py
 
 
 # این اسکریپت مخصوص سروش+ و هر 24 ساعت کد فیلترینگ میده
