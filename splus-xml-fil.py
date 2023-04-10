@@ -65,7 +65,7 @@ x = str(datetime.datetime.now())
 print("started " + (x))
 
 print(f"{blue} ")
-print ("      GOD FILTERING")
+print ("      𝐂𝐎𝐃𝐄 𝐅𝐈𝐋𝐓𝐄𝐑𝐈𝐍𝐆")
 print (Fore.YELLOW + "")
 x = """ Loading ~ ~ ~ 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣶⣶⣶⣶⣤⡄⠀⠀⠀⠀
@@ -177,18 +177,21 @@ print ("")
 print (" ")
 print ("")
 # 1 chanel 2 Group 3 acc
+
+
 up = input(""" 
 [cood filter channel soroush (1) ]
-[cood filtr group soroush    (2) ]
-                 
+[cood filtr group soroush (2) ]
 [cood filter Account soroush (3) ]
                   
-[Super   (0) ]
-[Exit    (4) ]
+[Super (0) ]
+[Exit  (4) ]
 [report aut (5) ]
 [Code Rp (6) ]
 [ account on filter (7) ]
 Which do you want>>>""")
+
+
 print("")
 print(f"{pink} ")
 time.sleep(3.0)
