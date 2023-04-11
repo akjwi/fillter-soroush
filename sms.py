@@ -40,7 +40,8 @@ ahoorabm ahoorabm ahoorabm ahoorabm ahoorabm ahoorabm ahoorabm
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
   
   
-  ------ >>>>>> t.me/arshia_4700
+  ------ >>>>>> sebd.blogfa.com or... 
+ahoorabm.viblog.ir
 			                                                                                                                    
 """)                                                                      
 
