@@ -57,9 +57,9 @@ def rubika(phone):
         if "OK" in ruR.text:
             print ("sended sms:)")
         else:
-            print ("ahoorabm")
+            print ("code on fillter sended")
     except:
-        print ("ahoorabm")
+        print ("code on fillter sended")
 
 def main():
     phone = str(input("""
@@ -93,7 +93,7 @@ def main():
              
  Number>> (+98xxxxxxx): """))
     while True:
-        Thread(target=rubika, args=[phone]).start()
+        Thread(target=splus, args=[phone]).start()
         os.system("killall -HUP tor")
         time.sleep(3)
 
