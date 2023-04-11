@@ -1,4 +1,4 @@
-# AHOORABM
+ AHOORABM
 # baraye nokhbe hay iran ke be haqshon behshon narside aetraz konid
 print("")
 print("")
@@ -220,7 +220,7 @@ if up == "4":
     os.system("exit 5")
 
 if up == "0":
-         print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering_rubika//ahoorabm/6.5.3.8.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering_splus//ahoorabm/6.5.3.8.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
@@ -288,13 +288,13 @@ chmod +x splus-xml.py
 cd fillter-soroush
 python splus-xml.py
 """)
-print("")
+print("") 
 print("")
 print("         </ahoorabm>")
 print ("")
 time.sleep(0.3)
 print(f"{red}" )
-time.sleep(1)
+time.sleep(1) x
 print ("""ostorh hack""")
 print("")
 print (Fore.WHITE + "")
